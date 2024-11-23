@@ -15,3 +15,5 @@
 - [inipp](https://github.com/mcmtroffaes/inipp) ![GitHub Repo stars](https://img.shields.io/github/stars/mcmtroffaes/inipp)
 
 - [configparser](https://github.com/dzilles/configparser) ![GitHub Repo stars](https://img.shields.io/github/stars/dzilles/configparser)
+
+- [mINI](https://github.com/metayeti/mINI) ![GitHub Repo stars](https://img.shields.io/github/stars/metayeti/mINI)
