@@ -23,4 +23,6 @@
 
 - [asio2](https://github.com/zhllxt/asio2) ![GitHub Repo stars](https://img.shields.io/github/stars/zhllxt/asio2)
 
+- [CppNet](https://github.com/caozhiyi/CppNet) ![GitHub Repo stars](https://img.shields.io/github/stars/caozhiyi/CppNet)
+
 - [EasyNet](https://github.com/HLhuanglang/eNET) ![GitHub Repo stars](https://img.shields.io/github/stars/HLhuanglang/eNET)
