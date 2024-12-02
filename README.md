@@ -3,6 +3,8 @@
 - [CPlusPlus\_library](#cplusplus_library)
   - [ini parser library](#ini-parser-library)
   - [network library](#network-library)
+  - [log](#log)
+  - [json](#json)
 
 
 [toc]
@@ -28,3 +30,15 @@
 - [CppNet](https://github.com/caozhiyi/CppNet) ![GitHub Repo stars](https://img.shields.io/github/stars/caozhiyi/CppNet)
 
 - [EasyNet](https://github.com/HLhuanglang/eNET) ![GitHub Repo stars](https://img.shields.io/github/stars/HLhuanglang/eNET)
+
+## log
+
+- [spdlog](https://github.com/gabime/spdlog) ![GitHub Repo stars](https://img.shields.io/github/stars/gabime/spdlog)
+
+- [glog](https://github.com/google/glog) ![GitHub Repo stars](https://img.shields.io/github/stars/google/glog)
+
+- [log.c](https://github.com/rxi/log.c) ![GitHub Repo stars](https://img.shields.io/github/stars/rxi/log.c)
+
+## json
+
+
